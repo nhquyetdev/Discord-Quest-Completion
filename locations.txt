@@ -1,1 +1,4 @@
+Battlefield 6 Top Gun=Battlefield 6=bf6.exe
 Roblox=Roblox=RobloxPlayerBeta.exe
+Where Winds Meet=Win64=wwm.exe
+Zenless Zone Zero=HoYoPlay\games\ZenlessZoneZero Game=ZenlessZoneZero.exe

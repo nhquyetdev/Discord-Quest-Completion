@@ -1,4 +1,4 @@
-# Discord-Quest-Completion
+# Discord-Games-Quest-Completion
 
 ### Press Accept Game Quests
 

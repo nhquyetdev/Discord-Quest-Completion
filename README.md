@@ -1,5 +1,11 @@
 # Discord-Games-Quest-Completion
 
+## What is this?
+This tool is an executed file for people who don't know anything about codes.
+It helps you finish discord quests or show everyone that you are playing that game.
+o client modification. No code injection. No suspicious network traffic
+
+## How to use?
 ### Press Accept Game Quests
 
 ### Open the file

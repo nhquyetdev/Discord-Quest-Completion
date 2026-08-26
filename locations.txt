@@ -1,4 +1,4 @@
-Arknights: Endfield=Game=Endfield.exeBattlefield 6 Top Gun=Battlefield 6=bf6.exeCall of Duty: Modern Warfare 4=Call of Duty 4=cod.exe
+Albion Online=Win64=Albion-Online.exeArknights: Endfield=Game=Endfield.exeBattlefield 6 Top Gun=Battlefield 6=bf6.exeCall of Duty: Modern Warfare 4=Call of Duty 4=cod.exeFortnite=Win64=FortniteClient-Win64-Shipping.exe
 Helldivers 2=bin=helldivers2.exeRoblox=Roblox=RobloxPlayerBeta.exe
 Where Winds Meet=Win64=wwm.exe
 Zenless Zone Zero=HoYoPlay\games\ZenlessZoneZero Game=ZenlessZoneZero.exe

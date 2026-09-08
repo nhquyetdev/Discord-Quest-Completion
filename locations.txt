@@ -1,4 +1,4 @@
 Albion Online=Win64=Albion-Online.exeArknights: Endfield=Game=Endfield.exeBattlefield 6 Top Gun=Battlefield 6=bf6.exeCall of Duty: Modern Warfare 4=Call of Duty 4=cod.exeDragon's Dogma 2=Dragons Dogma 2=DD2.exeFortnite=Win64=FortniteClient-Win64-Shipping.exe
-Helldivers 2=bin=helldivers2.exeMARVEL SNAP x Draft Mode=marvel snap=snap.exeRoblox=Roblox=RobloxPlayerBeta.exe
+Helldivers 2=bin=helldivers2.exeMARVEL SNAP x Draft Mode=marvel snap=snap.exeOnimusha: Way of the Sword=OnimushaWotS_Demo=onimushawots.exeRoblox=Roblox=RobloxPlayerBeta.exe
 Where Winds Meet=Win64=wwm.exe
 Zenless Zone Zero=HoYoPlay\games\ZenlessZoneZero Game=ZenlessZoneZero.exe
